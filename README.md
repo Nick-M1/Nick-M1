@@ -8,8 +8,9 @@ Full-stack:
 - [👗 Clothes-website (NextJs) 👟](https://github.com/Nick-M1/clothes-website)
 
 Backend:
-- 🌦️ [WeatherApp-Python (python & Chatgpt) ❄️️](https://github.com/Nick-M1/WeatherApp_Python)
-- ✈️ [Xfoil (python) 🛬](https://github.com/Nick-M1/XFoil-Python)
+- [🌦️ WeatherApp-Python (python & Chatgpt) ❄️️](https://github.com/Nick-M1/WeatherApp_Python)
+- [✈️ Xfoil (python) 🛬](https://github.com/Nick-M1/XFoil-Python)
+- [🎮 Tetris (C) 🕹️](https://github.com/Nick-M1/Tetris)
 
 <!--
 **Nick-M1/Nick-M1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
