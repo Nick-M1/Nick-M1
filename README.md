@@ -10,8 +10,8 @@
 
 
 #### Backend:
-- 🌦️ [WeatherApp-Python (python & Chatgpt) ❄️️](https://github.com/Nick-M1/WeatherApp_Python)
-- ✈️ [Xfoil (python) 🛬](https://github.com/Nick-M1/XFoil-Python)
+- 🌦️ [WeatherApp-Python (Python & Chatgpt) ❄️️](https://github.com/Nick-M1/WeatherApp_Python)
+- ✈️ [Xfoil (Python) 🛬](https://github.com/Nick-M1/XFoil-Python)
 - [🎮 Tetris (C) 🕹️](https://github.com/Nick-M1/Tetris)
 
 <!--
