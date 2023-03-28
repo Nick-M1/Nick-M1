@@ -6,6 +6,7 @@
 #### Full-stack:
 - [🍔 Recipe-website (NextJs) 🍕](https://github.com/Nick-M1/Recipe-website)
 - [👗 Clothes-website (NextJs) 👟](https://github.com/Nick-M1/clothes-website)
+- [📲 Chat-App (React) 💬](https://github.com/Nick-M1/react-chat-app)
 - [🧑‍🎓 Student Management System (Java Spring Boot & React) 👩‍🎓](https://github.com/Nick-M1/Student-management-backend/tree/main/student-database-backend)
 
 
